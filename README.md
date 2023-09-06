@@ -10,7 +10,15 @@ backgroung-repeat ->for adjusting the extra image overflow in the container.
 background-size ->for adjusting the size of the background image.
 margin-inline -> for giving margin between the two contents of the container.
 display(inline-block) ->for for giving the flow of inline elements in a container in a single direction i.e. to the right.
+ 
+ 
+ 
+ 
+ 
+ hosted link
 
 
+ 
 
+https://shikhasharma06.github.io/Background-Properties/index.html
 
